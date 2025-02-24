@@ -1,2 +1,2 @@
 # detect_finger_contact
-python
+A program that lets you lower your "YouTube shorts" by moving your fingers using Python
